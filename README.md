@@ -10,9 +10,5 @@ This Page contains the following features.
 - `Randomness`: this handles amount of Randomness you want to introduce in the picture to produce a feel of lack of precession.
 - `Page Size`: this allows you to select the format you want to download the pictures.
 
-## License
-
-The Project is licensed under MIT license.
-
 ## Citation Information
 Das,A.,25 December,2023._pushpins_
